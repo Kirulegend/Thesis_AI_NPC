@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Unity.AI.Navigation;
@@ -19,8 +20,10 @@ public class AI : MonoBehaviour
     [SerializeField] public int _age;
     [SerializeField] bool _random = false;
     [SerializeField] public bool _resting = false;
+    [SerializeField] public bool _canChat = true;
     [SerializeField] bool _isPet = false;
     [SerializeField] Transform _dest = null;
+    [SerializeField] public Name[] _alias;
     #endregion
     #region Initialization
     void Start()
@@ -72,7 +75,7 @@ public class AI : MonoBehaviour
     #region Update
     void Update()
     {
-        if (_state != State.Thinking && _state != State.Resting)
+        if (_state != State.Thinking && _state != State.Resting && _state != State.Chatting)
         {
             _ai_Agent.isStopped = false;
             SetState();
@@ -84,8 +87,8 @@ public class AI : MonoBehaviour
     void SetState()
     {
         if (_ai_Agent.velocity.sqrMagnitude > 0.01f) _state = State.Moving;
-        else if (_ai_Agent.velocity.sqrMagnitude < 0.01f && _resting) _state = State.Resting;
-        else if(_ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _state == State.Idle && _dest == _follow)
+        else if (_ai_Agent.velocity.sqrMagnitude < 0.01f && _resting && _state == State.Moving) _state = State.Resting;
+        else if (_ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _state == State.Idle && _dest == _follow)
         {
             foreach (var jt in AI_Data._instance._jobTransform)
             {
@@ -99,6 +102,23 @@ public class AI : MonoBehaviour
         }
         else _state = State.Idle;
 
+    }
+    #endregion
+    #region IEnumerators
+    public IEnumerator Chatting(AI otherAI)
+    {
+        _state = State.Chatting;
+        otherAI._state = State.Chatting;
+        _canChat = false;
+        otherAI._canChat = false;
+        Stop();
+        otherAI.Stop();
+        yield return new WaitForSeconds(5);
+        _state = State.Moving;
+        otherAI._state = State.Moving;
+        yield return new WaitForSeconds(10);
+        _canChat = true;
+        otherAI._canChat = true;
     }
     #endregion
 }

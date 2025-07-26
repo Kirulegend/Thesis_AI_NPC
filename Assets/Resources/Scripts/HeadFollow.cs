@@ -1,4 +1,5 @@
 using TMPro;
+using Unity.Jobs;
 using UnityEngine;
 
 public class Head : MonoBehaviour
@@ -15,5 +16,13 @@ public class Head : MonoBehaviour
                                               _speed);
     void Update() => SetState();
     void SetState() => GetComponent<MeshRenderer>().material = Resources.Load<Material>("Materials/" + _body._state);
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("AI") && other.gameObject != _body.gameObject)
+        {
+            AI otherAI = other.transform.GetComponent<AI>();
+            if (otherAI._job == _body._job && otherAI._state != State.Thinking && otherAI._state != State.Resting && _body._canChat && otherAI._canChat) StartCoroutine(_body.Chatting(otherAI));
+        }
+    }
     #endregion
 }

@@ -26,7 +26,7 @@ public class Bench : MonoBehaviour
     #region RestCheck
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("AI"))
+        if (other.gameObject.CompareTag("AI") && other is CapsuleCollider)
         {
             AI aI = other.GetComponent<AI>();
             if (aI._age >= _ageCheck)
@@ -43,6 +43,8 @@ public class Bench : MonoBehaviour
             }
         }
     }
+    #endregion
+    #region IEnumerators
     IEnumerator RestTimer(AI aI, int index)
     {
         aI._resting = UnityEngine.Random.value > 0.5f;
@@ -57,12 +59,12 @@ public class Bench : MonoBehaviour
             aI._ai_Agent.stoppingDistance = .5f;
             _seatCheck[index]._seatCheck = true;
             yield return new WaitForSeconds(_restTime);
-            _seatCheck[index]._seatCheck = false;
+            aI._resting = false;
             aI._follow = _desPosition[index];
             _desPosition[index] = null;
-            aI._resting = false;
             aI._ai_Agent.stoppingDistance = _defaultStoppingDis[index];
             _defaultStoppingDis[index] = 0;
+            _seatCheck[index]._seatCheck = false;
             aI._state = State.Moving;
         }
     }

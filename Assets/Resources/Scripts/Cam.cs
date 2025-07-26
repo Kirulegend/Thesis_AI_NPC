@@ -15,7 +15,7 @@ public class Cam : MonoBehaviour
     void Start()
     {
         _timeM = GameObject.Find("TimeManager").GetComponent<TimeManager>();
-        GameObject.Find("UI").GetComponent<Canvas>().enabled = true;
+        GameObject.Find("UI").GetComponent<Canvas>().enabled = true;    
         _name = GameObject.Find("UI").transform.Find("Name").GetComponent<TextMeshProUGUI>();
         _time = GameObject.Find("UI").transform.Find("Time").GetComponent<TextMeshProUGUI>();
         _spawn = GameObject.Find("Spawn Points").GetComponent<Spawn>();

@@ -139,6 +139,7 @@ GameObject:
   - component: {fileID: 7303007198619997672}
   - component: {fileID: -7136722840319147170}
   - component: {fileID: 3829531371154132673}
+  - component: {fileID: 1247502430093351765}
   m_Layer: 0
   m_Name: Bench
   m_TagString: Untagged
@@ -271,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d4f1aed48caeac4d9f26cb1256280bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ageCheck: 45
+  _ageCheck: 35
   _restTime: 10
   _defaultStoppingDis: []
   _desPosition: []
@@ -303,3 +304,24 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &1247502430093351765
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8225079625099645750}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.7999997, y: 1.2000002, z: 1.8000001}
+  m_Center: {x: 0, y: 0.59999996, z: 0}

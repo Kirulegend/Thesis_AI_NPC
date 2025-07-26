@@ -19,7 +19,7 @@ public class AI_Data : MonoBehaviour
         _nameCheck = Enum.GetValues(typeof(Name)).Cast<Name>().ToDictionary(name => name, name => false);
         _nameGender = new List<N_G>
         {
-            new N_G { _name = Name.Kiran, _sex = Sex.Male },
+            new N_G { _name = Name.Kiran, _sex = Sex.Bisexual },
             new N_G { _name = Name.Bharath, _sex = Sex.Trans },
             new N_G { _name = Name.Harsha, _sex = Sex.Lesbiean },
             new N_G { _name = Name.Deepak, _sex = Sex.Lesbiean },
@@ -32,9 +32,12 @@ public class AI_Data : MonoBehaviour
             new N_G { _name = Name.Sashi, _sex = Sex.Male },
             new N_G { _name = Name.Aashrith, _sex = Sex.Male },
             new N_G { _name = Name.Shantosh, _sex = Sex.Bisexual},
-            new N_G { _name = Name.Chandu, _sex = Sex.Trans},
+            new N_G { _name = Name.Chandu, _sex = Sex.Male},
             new N_G { _name = Name.Omkar, _sex = Sex.Bisexual},
             new N_G { _name = Name.Magar, _sex = Sex.Male},
+            new N_G { _name = Name.Rajamouli, _sex = Sex.Male},
+            new N_G { _name = Name.Sanjay, _sex = Sex.Male},
+            new N_G { _name = Name.Ram, _sex = Sex.Male},
             new N_G { _name = Name.Ambar, _sex = Sex.Male}
         };
         //(Sex)Enum.GetValues(typeof(Sex)).GetValue(UnityEngine.Random.Range(0, Enum.GetValues(typeof(Sex)).Length))

@@ -285,7 +285,6 @@ GameObject:
   - component: {fileID: 1556839674451120194}
   - component: {fileID: 5010056963129486344}
   - component: {fileID: 6152532837633156982}
-  - component: {fileID: -6164879120338852351}
   - component: {fileID: 8688731771206913388}
   m_Layer: 0
   m_Name: Manual AI
@@ -308,6 +307,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1334034790791512474}
+  - {fileID: 7980367761887342150}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6290600411122385784
@@ -408,30 +408,11 @@ MonoBehaviour:
   _sex: 2
   _age: 46
   _random: 0
-  _thinking: 0
   _resting: 0
-  _isPet: 0
+  _canChat: 1
+  _isPet: 1
   _dest: {fileID: 0}
---- !u!114 &-6164879120338852351
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1918175831499428110}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SerializedVersion: 0
-  m_OverrideArea: 1
-  m_Area: 0
-  m_OverrideGenerateLinks: 0
-  m_GenerateLinks: 0
-  m_IgnoreFromBuild: 1
-  m_ApplyToChildren: 1
-  m_AffectedAgents: ffffffff
+  _alias: 
 --- !u!195 &8688731771206913388
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -444,7 +425,7 @@ NavMeshAgent:
   m_Radius: 0.5
   m_Speed: 3.5
   m_Acceleration: 8
-  avoidancePriority: 50
+  avoidancePriority: 80
   m_AngularSpeed: 120
   m_StoppingDistance: 2
   m_AutoTraverseOffMeshLink: 1
@@ -862,6 +843,37 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &4949648302267559503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7980367761887342150}
+  m_Layer: 3
+  m_Name: Camera_Target
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: fcc630d8c1a98914d8f441a222dcb0bb, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7980367761887342150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4949648302267559503}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08715578, y: -0, z: -0, w: 0.9961947}
+  m_LocalPosition: {x: 0, y: 3.6883, z: -9.677322}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6146852747819572928}
+  m_LocalEulerAnglesHint: {x: 10, y: 0, z: 0}
 --- !u!1 &5100188755171024148
 GameObject:
   m_ObjectHideFlags: 0
