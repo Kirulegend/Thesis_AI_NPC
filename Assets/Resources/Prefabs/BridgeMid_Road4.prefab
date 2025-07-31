@@ -13,6 +13,10 @@ GameObject:
   - component: {fileID: 3461932666085766368}
   - component: {fileID: 8086997288702215186}
   - component: {fileID: 992289863606843170}
+  - component: {fileID: 4562559320705195344}
+  - component: {fileID: 4319033936595436778}
+  - component: {fileID: 7343760454339792560}
+  - component: {fileID: 4888265148509594984}
   m_Layer: 0
   m_Name: BridgeMid_Road4
   m_TagString: Untagged
@@ -102,7 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 12, y: 6, z: 7}
+  m_Size: {x: 12, y: 6, z: 6}
   m_Center: {x: 0, y: 3.5, z: 0}
   m_Area: 4
   m_AffectedAgents: ffffffff
@@ -119,7 +123,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 7, y: 6, z: 12}
+  m_Size: {x: 6, y: 6, z: 12}
   m_Center: {x: 0, y: 3.5, z: 0}
   m_Area: 4
+  m_AffectedAgents: ffffffff
+--- !u!114 &4562559320705195344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 12, y: 6, z: 0.5}
+  m_Center: {x: 0, y: 3.5, z: 3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &4319033936595436778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 12, y: 6, z: 0.5}
+  m_Center: {x: 0, y: 3.5, z: -3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &7343760454339792560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 6, z: 12}
+  m_Center: {x: 3.25, y: 3.5, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &4888265148509594984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 6, z: 12}
+  m_Center: {x: -3.25, y: 3.5, z: 0}
+  m_Area: 1
   m_AffectedAgents: ffffffff

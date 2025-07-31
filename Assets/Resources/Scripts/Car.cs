@@ -12,6 +12,7 @@ public class Car : MonoBehaviour
     [SerializeField] public Transform _follow;
     void Start()
     {
+        _follow = _dest;
         _carAgent = GetComponent<NavMeshAgent>();
         RandomStats();
     }
@@ -19,7 +20,7 @@ public class Car : MonoBehaviour
     {
         
     }
-    private void Update()
+    void Update()
     {
         _carAgent.SetDestination(_dest.position);
         if (_carAgent.remainingDistance <= _carAgent.stoppingDistance && _dest == _follow)
@@ -28,4 +29,8 @@ public class Car : MonoBehaviour
             _follow = _dest;
         }
     }
+    //void OnTriggerEnter(Collider other)
+    //{
+    //    transform.GetComponent<AudioSource>().Play();
+    //}
 }

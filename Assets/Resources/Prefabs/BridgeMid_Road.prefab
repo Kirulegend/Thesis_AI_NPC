@@ -11,7 +11,9 @@ GameObject:
   - component: {fileID: 5088812473358262817}
   - component: {fileID: 6645109654711283596}
   - component: {fileID: 3461932666085766368}
-  - component: {fileID: 5250387536933596667}
+  - component: {fileID: 2384020004163922771}
+  - component: {fileID: 3532360955102059400}
+  - component: {fileID: 5595702039248184662}
   m_Layer: 0
   m_Name: BridgeMid_Road
   m_TagString: Untagged
@@ -88,7 +90,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5250387536933596667
+--- !u!114 &2384020004163922771
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -101,7 +103,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 7, y: 6, z: 12}
+  m_Size: {x: 6, y: 6, z: 12}
   m_Center: {x: 0, y: 3.5, z: 0}
   m_Area: 4
+  m_AffectedAgents: ffffffff
+--- !u!114 &3532360955102059400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 6, z: 12}
+  m_Center: {x: -3.25, y: 3.5, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &5595702039248184662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6283096244915058666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 6, z: 12}
+  m_Center: {x: 3.25, y: 3.5, z: 0}
+  m_Area: 1
   m_AffectedAgents: ffffffff

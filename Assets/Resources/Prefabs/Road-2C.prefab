@@ -11,8 +11,12 @@ GameObject:
   - component: {fileID: 1203669402870659362}
   - component: {fileID: 3323810331352207473}
   - component: {fileID: 7481793871663713171}
-  - component: {fileID: 3395543413525726686}
-  - component: {fileID: 6829007213190873422}
+  - component: {fileID: 1187511000437357581}
+  - component: {fileID: 5673624057103544054}
+  - component: {fileID: 8864968546373595527}
+  - component: {fileID: 6796803029702752632}
+  - component: {fileID: 2243216969776933699}
+  - component: {fileID: 593278231225649876}
   m_Layer: 0
   m_Name: Road-2C
   m_TagString: Untagged
@@ -89,7 +93,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3395543413525726686
+--- !u!114 &1187511000437357581
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -102,11 +106,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 7, y: 1.5, z: 2.5}
-  m_Center: {x: 0, y: 1, z: 4.75}
+  m_Size: {x: 9, y: 3, z: 6}
+  m_Center: {x: -1.5, y: 0, z: 0}
   m_Area: 4
   m_AffectedAgents: ffffffff
---- !u!114 &6829007213190873422
+--- !u!114 &5673624057103544054
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -119,7 +123,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 9.5, y: 1.5, z: 7}
-  m_Center: {x: -1.25, y: 1, z: 0}
+  m_Size: {x: 9.5, y: 3, z: 0.5}
+  m_Center: {x: -1.25, y: 0, z: -3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &8864968546373595527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493774870200613015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 2.5, y: 3, z: 0.5}
+  m_Center: {x: -4.75, y: 0, z: 3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &6796803029702752632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493774870200613015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 3, z: 3}
+  m_Center: {x: -3.25, y: 0, z: 4.5}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &2243216969776933699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493774870200613015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 3, z: 9}
+  m_Center: {x: 3.25, y: 0, z: 1.5}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &593278231225649876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493774870200613015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 6, y: 3, z: 3}
+  m_Center: {x: 0, y: 0, z: 4.5}
   m_Area: 4
   m_AffectedAgents: ffffffff

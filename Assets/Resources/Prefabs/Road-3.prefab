@@ -11,8 +11,13 @@ GameObject:
   - component: {fileID: 2032542277458566463}
   - component: {fileID: 4153669634560554067}
   - component: {fileID: 4475725968302834583}
-  - component: {fileID: 8111954761136324618}
-  - component: {fileID: 700255716636184358}
+  - component: {fileID: 633483071220704493}
+  - component: {fileID: 6935826351468441368}
+  - component: {fileID: 4566330806272068831}
+  - component: {fileID: 6568180178697255321}
+  - component: {fileID: 8875227245485001352}
+  - component: {fileID: 5089249240013696385}
+  - component: {fileID: 179215240998929517}
   m_Layer: 0
   m_Name: Road-3
   m_TagString: Untagged
@@ -89,7 +94,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8111954761136324618
+--- !u!114 &633483071220704493
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -102,11 +107,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 12, y: 1.5, z: 7}
-  m_Center: {x: 0, y: 1, z: 0}
+  m_Size: {x: 12, y: 3, z: 6}
+  m_Center: {x: 0, y: 0, z: 0}
   m_Area: 4
   m_AffectedAgents: ffffffff
---- !u!114 &700255716636184358
+--- !u!114 &6935826351468441368
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -119,7 +124,92 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 7, y: 1.5, z: 2.5}
-  m_Center: {x: 0, y: 1, z: 4.75}
+  m_Size: {x: 6, y: 3, z: 3}
+  m_Center: {x: 0, y: 0, z: 4.5}
   m_Area: 4
+  m_AffectedAgents: ffffffff
+--- !u!114 &4566330806272068831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2424570374377004679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 12, y: 3, z: 0.5}
+  m_Center: {x: 0, y: 0, z: -3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &6568180178697255321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2424570374377004679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 3, y: 3, z: 0.5}
+  m_Center: {x: -4.5, y: 0, z: 3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &8875227245485001352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2424570374377004679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 3, y: 3, z: 0.5}
+  m_Center: {x: 4.5, y: 0, z: 3.25}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &5089249240013696385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2424570374377004679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 3, z: 2.5}
+  m_Center: {x: 3.25, y: 0, z: 4.75}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
+--- !u!114 &179215240998929517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2424570374377004679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedVersion: 0
+  m_Size: {x: 0.5, y: 3, z: 2.5}
+  m_Center: {x: -3.25, y: 0, z: 4.75}
+  m_Area: 1
   m_AffectedAgents: ffffffff
