@@ -112,7 +112,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.1
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
@@ -131,6 +131,7 @@ MonoBehaviour:
   _ai_Agent: {fileID: 0}
   _head: {fileID: 0}
   _follow: {fileID: 0}
+  _pickPos: {fileID: 0}
   _size: 0
   _name: 0
   _state: 0
@@ -139,6 +140,7 @@ MonoBehaviour:
   _age: 0
   _random: 1
   _resting: 0
+  _eating: 0
   _canChat: 1
   _isPet: 0
   _dest: {fileID: 0}

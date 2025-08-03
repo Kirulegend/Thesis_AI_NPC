@@ -31,6 +31,7 @@ public class AI : MonoBehaviour
     void Start()
     {
         _ai_Agent = GetComponent<NavMeshAgent>();
+        _pickPos = transform.Find("Picked Obj");
         RandomStats();
     }
     void RandomStats()
