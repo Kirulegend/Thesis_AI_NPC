@@ -12,6 +12,7 @@ public class AI : MonoBehaviour
     [SerializeField] public NavMeshAgent _ai_Agent;
     [SerializeField] public GameObject _head;
     [SerializeField] public Transform _follow;
+    [SerializeField] public Transform _pickPos;
     [SerializeField] public Size _size;
     [SerializeField] public Name _name;
     [SerializeField] public State _state;
@@ -20,6 +21,7 @@ public class AI : MonoBehaviour
     [SerializeField] public int _age;
     [SerializeField] bool _random = false;
     [SerializeField] public bool _resting = false;
+    [SerializeField] public bool _eating = false;
     [SerializeField] public bool _canChat = true;
     [SerializeField] bool _isPet = false;
     [SerializeField] Transform _dest = null;
@@ -75,7 +77,7 @@ public class AI : MonoBehaviour
     #region Update
     void Update()
     {
-        if (_state != State.Thinking && _state != State.Resting && _state != State.Chatting)
+        if (_state != State.Thinking && _state != State.Resting && _state != State.Chatting && _state != State.Waiting)
         {
             _ai_Agent.isStopped = false;
             SetState();
@@ -84,11 +86,25 @@ public class AI : MonoBehaviour
     }
     void Move(Vector3 Destination) => _ai_Agent.SetDestination(Destination);
     public void Stop() => _ai_Agent.isStopped = true;
+    public void NotStop() => _ai_Agent.isStopped = false;
     void SetState()
     {
-        if (_ai_Agent.velocity.sqrMagnitude > 0.01f) _state = State.Moving;
-        else if (_ai_Agent.velocity.sqrMagnitude < 0.01f && _resting && _state == State.Moving) _state = State.Resting;
-        else if (_ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _state == State.Idle && _dest == _follow)
+        if (_ai_Agent.velocity.sqrMagnitude > 0.01f)
+        {
+            _state = State.Moving;
+            return;
+        }
+        if (_resting)
+        {
+            _state = State.Resting;
+            return;
+        }
+        if (_eating)
+        {
+            _state = State.Eating;
+            return;
+        }
+        if (_state == State.Idle && _ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _dest == _follow)
         {
             foreach (var jt in AI_Data._instance._jobTransform)
             {
@@ -99,10 +115,11 @@ public class AI : MonoBehaviour
                     break;
                 }
             }
+            return;
         }
-        else _state = State.Idle;
-
+        _state = State.Idle;
     }
+
     #endregion
     #region IEnumerators
     public IEnumerator Chatting(AI otherAI)

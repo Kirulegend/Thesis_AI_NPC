@@ -12,7 +12,7 @@ public class Bench : MonoBehaviour
     [SerializeField] float[] _defaultStoppingDis;
     [SerializeField] Transform[] _desPosition;
     [SerializeField] Transform[] _seats;
-    [SerializeField] List<Seat> _seatCheck = new List<Seat>();
+    [SerializeField] List<BSeat> _seatCheck = new List<BSeat>();
     #endregion
     #region Initialization
     void Start()
@@ -20,7 +20,7 @@ public class Bench : MonoBehaviour
         _seats = GetComponentsInChildren<Transform>().Where(t => t != transform).ToArray();
         _desPosition = new Transform[_seats.Length];
         _defaultStoppingDis = new float[_seats.Length];
-        foreach (Transform seat in _seats) _seatCheck.Add(new Seat(seat, false));
+        foreach (Transform seat in _seats) _seatCheck.Add(new BSeat(seat, false));
     }
     #endregion
     #region RestCheck

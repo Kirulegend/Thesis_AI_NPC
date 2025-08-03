@@ -106,8 +106,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 6, y: 6, z: 3}
-  m_Center: {x: 0, y: 3.5, z: 4.5}
+  m_Size: {x: 3, y: 6, z: 6}
+  m_Center: {x: 4.5, y: 3.5, z: 0}
   m_Area: 4
   m_AffectedAgents: ffffffff
 --- !u!114 &3667030318625227077
@@ -123,8 +123,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 9, y: 6, z: 6}
-  m_Center: {x: -1.5, y: 3.5, z: 0}
+  m_Size: {x: 6, y: 6, z: 9}
+  m_Center: {x: 0, y: 3.5, z: -1.5}
   m_Area: 4
   m_AffectedAgents: ffffffff
 --- !u!114 &5126603663490220089
@@ -140,8 +140,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 9.5, y: 6, z: 0.5}
-  m_Center: {x: -1.25, y: 3.5, z: -3.25}
+  m_Size: {x: 0.5, y: 6, z: 9.5}
+  m_Center: {x: -3.25, y: 3.5, z: -1.25}
   m_Area: 1
   m_AffectedAgents: ffffffff
 --- !u!114 &4224392925308843248
@@ -157,8 +157,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 2.5, y: 6, z: 0.5}
-  m_Center: {x: -4.75, y: 3.5, z: 3.25}
+  m_Size: {x: 0.5, y: 6, z: 2.5}
+  m_Center: {x: 3.25, y: 3.5, z: -4.75}
   m_Area: 1
   m_AffectedAgents: ffffffff
 --- !u!114 &4389766862566578347
@@ -174,8 +174,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 0.5, y: 6, z: 3}
-  m_Center: {x: -3.25, y: 3.5, z: 4.5}
+  m_Size: {x: 3, y: 6, z: 0.5}
+  m_Center: {x: 4.5, y: 3.5, z: -3.25}
   m_Area: 1
   m_AffectedAgents: ffffffff
 --- !u!114 &3126490748255087744
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedVersion: 0
-  m_Size: {x: 0.5, y: 6, z: 9}
-  m_Center: {x: 3.25, y: 3.5, z: 1.5}
+  m_Size: {x: 9, y: 6, z: 0.5}
+  m_Center: {x: 1.5, y: 3.5, z: 3.25}
   m_Area: 1
   m_AffectedAgents: ffffffff

@@ -9,7 +9,7 @@ public class TimeManager : MonoBehaviour
     [SerializeField] Light directionalLight;
     [SerializeField] public UnityEvent OnNightStarted;
     [SerializeField] public UnityEvent OnDayStarted;
-    [SerializeField] bool IsDay => timeOfDay >= 6f && timeOfDay < 18f;
+    [SerializeField] bool IsDay => timeOfDay >= 5f && timeOfDay < 17f;
     [SerializeField] bool _wasDay = true;
     #endregion
     #region TheDeo

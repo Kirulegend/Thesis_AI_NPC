@@ -15,7 +15,7 @@ NavMeshProjectSettings:
     cost: 3
   - name: Car
     cost: 1
-  - name: 
+  - name: Stall
     cost: 1
   - name: 
     cost: 1
