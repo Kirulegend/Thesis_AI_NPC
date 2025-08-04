@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3059846585448349913}
   m_Layer: 0
-  m_Name: Point
+  m_Name: Coffee Shop
   m_TagString: Untagged
-  m_Icon: {fileID: 2800000, guid: f0223c9f1c8fed844909bc6f5cadfe46, type: 3}
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -25,7 +25,38 @@ Transform:
   m_GameObject: {fileID: 913631198761027880}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.25, y: 3, z: 2}
+  m_LocalPosition: {x: 4, y: 3, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 5088812473358262817}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1475440983300486260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 556181652913017033}
+  m_Layer: 0
+  m_Name: Coffee Shop
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &556181652913017033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1475440983300486260}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 3, z: -4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -162,9 +193,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4110388257404463856}
   m_Layer: 0
-  m_Name: Point
+  m_Name: Coffee Shop
   m_TagString: Untagged
-  m_Icon: {fileID: 2800000, guid: f0223c9f1c8fed844909bc6f5cadfe46, type: 3}
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -177,7 +208,7 @@ Transform:
   m_GameObject: {fileID: 3525739000126301208}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2, y: 3, z: -4.25}
+  m_LocalPosition: {x: 2, y: 3, z: -4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -193,9 +224,9 @@ GameObject:
   m_Component:
   - component: {fileID: 841719190440057653}
   m_Layer: 0
-  m_Name: Point
+  m_Name: Coffee Shop
   m_TagString: Untagged
-  m_Icon: {fileID: 2800000, guid: f0223c9f1c8fed844909bc6f5cadfe46, type: 3}
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -208,7 +239,7 @@ Transform:
   m_GameObject: {fileID: 3750618449136431807}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2, y: 3, z: -4.25}
+  m_LocalPosition: {x: -2, y: 3, z: -4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -307,7 +338,9 @@ Transform:
   - {fileID: 5853881711144330771}
   - {fileID: 841719190440057653}
   - {fileID: 4110388257404463856}
+  - {fileID: 556181652913017033}
   - {fileID: 8869840616710141106}
+  - {fileID: 7155011548183482272}
   - {fileID: 3059846585448349913}
   - {fileID: 5805682651822803387}
   m_Father: {fileID: 0}
@@ -555,7 +588,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10, y: 11.820001, z: 10}
+  m_Size: {x: 9, y: 11.820001, z: 9}
   m_Center: {x: 0, y: 6.39, z: 0}
 --- !u!114 &8538827641817098759
 MonoBehaviour:
@@ -578,11 +611,7 @@ MonoBehaviour:
   - {fileID: 6584169161113655676}
   - {fileID: 7871714978551827251}
   - {fileID: 4870669170712436044}
-  _standPoints:
-  - {fileID: 841719190440057653}
-  - {fileID: 4110388257404463856}
-  - {fileID: 8869840616710141106}
-  - {fileID: 3059846585448349913}
+  _seatCheck: []
 --- !u!54 &4459994056900026621
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -631,6 +660,37 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 24, y: 11.820001, z: 24}
   m_Center: {x: 6, y: 6.39, z: -6}
+--- !u!1 &7409962210222829540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7155011548183482272}
+  m_Layer: 0
+  m_Name: Coffee Shop
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7155011548183482272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7409962210222829540}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 5088812473358262817}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8985424526903933866
 GameObject:
   m_ObjectHideFlags: 0
@@ -641,9 +701,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8869840616710141106}
   m_Layer: 0
-  m_Name: Point
+  m_Name: Coffee Shop
   m_TagString: Untagged
-  m_Icon: {fileID: 2800000, guid: f0223c9f1c8fed844909bc6f5cadfe46, type: 3}
+  m_Icon: {fileID: 2800000, guid: 102e0cc97f4e27244bc0b6ef5e3f5491, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -656,7 +716,7 @@ Transform:
   m_GameObject: {fileID: 8985424526903933866}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.25, y: 3, z: -2}
+  m_LocalPosition: {x: 4, y: 3, z: -2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []

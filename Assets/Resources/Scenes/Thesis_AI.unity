@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (11)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -229,7 +229,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (35)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -291,7 +291,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (10)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -472,7 +472,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (33)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -529,7 +529,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (12)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -546,7 +546,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (1)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -671,7 +671,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (3)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -748,7 +748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (14)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -872,7 +872,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (20)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -969,7 +969,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (19)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1205,7 +1205,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (80)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1530,7 +1530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (26)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1592,7 +1592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (38)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1664,7 +1664,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (41)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1859,7 +1859,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (3)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2080,7 +2080,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (14)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2102,7 +2102,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (12)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2202,7 +2202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (8)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2259,7 +2259,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (42)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2378,7 +2378,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (87)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2497,7 +2497,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (45)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2600,7 +2600,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (17)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2781,7 +2781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (39)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2843,7 +2843,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (24)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3098,7 +3098,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (9)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3282,7 +3282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (15)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3344,7 +3344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (31)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3495,7 +3495,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (14)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3967,7 +3967,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (5)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4029,7 +4029,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (30)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4056,7 +4056,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (13)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4153,7 +4153,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (40)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4210,7 +4210,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (28)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4272,7 +4272,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (59)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4404,7 +4404,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (9)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4706,7 +4706,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (88)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4773,7 +4773,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (5)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4892,7 +4892,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (10)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4959,7 +4959,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (1)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5140,7 +5140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (24)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5316,7 +5316,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (41)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5403,7 +5403,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (57)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5611,7 +5611,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (67)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5628,7 +5628,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (4)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5915,7 +5915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (34)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5994,7 +5994,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (2)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6220,7 +6220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (30)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6282,7 +6282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (6)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6339,7 +6339,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (61)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6396,7 +6396,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (20)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6515,7 +6515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (16)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6597,7 +6597,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (15)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6905,7 +6905,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (46)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7039,7 +7039,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (18)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7225,7 +7225,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (36)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7282,7 +7282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (73)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7344,7 +7344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (15)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7475,7 +7475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (20)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7663,7 +7663,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (71)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7792,7 +7792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (27)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8094,7 +8094,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (5)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8191,7 +8191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (11)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8253,7 +8253,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (77)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8372,7 +8372,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (12)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8434,7 +8434,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (34)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8553,7 +8553,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (1)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8769,7 +8769,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (52)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9064,7 +9064,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (16)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9121,7 +9121,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (21)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9178,7 +9178,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (43)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9235,7 +9235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (23)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9389,7 +9389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (10)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9451,7 +9451,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (39)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9525,7 +9525,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (6)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9692,7 +9692,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (70)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9816,7 +9816,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (38)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10120,7 +10120,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (84)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10537,7 +10537,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (8)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10757,7 +10757,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (4)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10879,7 +10879,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (75)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10906,7 +10906,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (25)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11080,7 +11080,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (35)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11137,7 +11137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (37)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11194,7 +11194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (40)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11273,7 +11273,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (9)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11392,7 +11392,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (24)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11727,7 +11727,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (12)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11789,7 +11789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (31)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11908,7 +11908,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (17)
+      value: ZebraCross
       objectReference: {fileID: 0}
     - target: {fileID: 2227697232984711656, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Area
@@ -12036,7 +12036,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (4)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12245,7 +12245,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (62)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12302,7 +12302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (36)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12421,7 +12421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (38)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12691,7 +12691,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (14)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12796,7 +12796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (9)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12915,7 +12915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (64)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12972,7 +12972,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (21)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13143,7 +13143,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (34)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13200,7 +13200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (25)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13262,7 +13262,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (41)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13324,7 +13324,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (46)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13381,7 +13381,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (25)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13438,7 +13438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (13)
+      value: ZebraCross
       objectReference: {fileID: 0}
     - target: {fileID: 2227697232984711656, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Area
@@ -13459,7 +13459,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (22)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13561,7 +13561,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (13)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13623,7 +13623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (50)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13680,7 +13680,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (37)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13737,7 +13737,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (48)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13794,7 +13794,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (11)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13873,7 +13873,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (10)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14015,7 +14015,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (8)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14233,7 +14233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (78)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14485,7 +14485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (33)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14542,7 +14542,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (14)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14599,7 +14599,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (63)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14698,7 +14698,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (11)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14805,7 +14805,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (22)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14976,7 +14976,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (13)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15076,7 +15076,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (7)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15195,7 +15195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (13)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15252,7 +15252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (47)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15443,7 +15443,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (29)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15584,7 +15584,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (6)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15681,7 +15681,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (92)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15805,7 +15805,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (7)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15862,7 +15862,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (22)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16028,7 +16028,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (8)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16128,7 +16128,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (69)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16145,7 +16145,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (21)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16294,6 +16294,8 @@ MonoBehaviour:
     - {fileID: 1544761509}
     - {fileID: 1717962616}
     - {fileID: 186315121}
+  _nameGender: []
+  _jobAge: []
 --- !u!4 &1119346333
 Transform:
   m_ObjectHideFlags: 0
@@ -16597,7 +16599,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (39)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16798,7 +16800,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (31)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16820,7 +16822,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (16)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16917,7 +16919,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (15)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17052,7 +17054,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (21)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17129,7 +17131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (82)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17191,7 +17193,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (9)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17288,7 +17290,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (10)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17305,7 +17307,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (19)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17402,7 +17404,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (16)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17459,7 +17461,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (4)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17526,7 +17528,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (8)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17662,7 +17664,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (3)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17819,7 +17821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (23)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18000,7 +18002,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (74)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18057,7 +18059,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (18)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18124,7 +18126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (33)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18243,7 +18245,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (17)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18496,7 +18498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (85)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18973,7 +18975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (26)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19035,7 +19037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (44)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19092,7 +19094,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (53)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19314,7 +19316,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (20)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19416,7 +19418,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (43)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19711,7 +19713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (79)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19830,7 +19832,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (11)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19887,7 +19889,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (72)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20082,7 +20084,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (83)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20139,7 +20141,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (66)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20196,7 +20198,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (24)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20253,7 +20255,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (30)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20325,7 +20327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (18)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20617,7 +20619,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (18)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20972,7 +20974,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (40)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21152,7 +21154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (22)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21271,7 +21273,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (26)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21328,7 +21330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (91)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21455,7 +21457,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (29)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21517,7 +21519,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (2)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21579,7 +21581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (56)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21817,7 +21819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (81)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21924,7 +21926,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (13)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22185,7 +22187,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (42)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22247,7 +22249,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (27)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22463,7 +22465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (19)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22525,7 +22527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (2)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22649,7 +22651,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (54)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22711,7 +22713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (2)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22840,7 +22842,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (51)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22902,7 +22904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (8)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23259,7 +23261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (65)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23316,7 +23318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (5)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23513,7 +23515,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (7)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23647,7 +23649,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (17)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23801,7 +23803,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (89)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23858,7 +23860,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (6)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24044,7 +24046,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (3)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24111,7 +24113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (7)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24325,7 +24327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (18)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24387,7 +24389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (3)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24550,7 +24552,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (45)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24679,7 +24681,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (44)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24798,7 +24800,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (55)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24855,7 +24857,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (11)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24979,7 +24981,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (28)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25036,7 +25038,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (15)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25053,7 +25055,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (10)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25155,7 +25157,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (3)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25222,7 +25224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (32)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25279,7 +25281,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (68)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25398,7 +25400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (35)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25420,7 +25422,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (5)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25644,7 +25646,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (90)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25820,7 +25822,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (86)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25852,7 +25854,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (9)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25967,7 +25969,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (29)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26224,7 +26226,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (27)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26281,7 +26283,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (32)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26298,7 +26300,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (12)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26415,7 +26417,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (49)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26565,7 +26567,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (17)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26627,7 +26629,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (58)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26772,7 +26774,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (2)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26936,7 +26938,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (4)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26998,7 +27000,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (60)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27176,7 +27178,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (2)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27238,7 +27240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (19)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32321,7 +32323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (1)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32537,7 +32539,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (12)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32651,7 +32653,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (1)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32673,7 +32675,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (23)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32775,7 +32777,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (14)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32832,7 +32834,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (36)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33142,7 +33144,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (93)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33199,7 +33201,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6283096244915058666, guid: f60aafa3c90cdf4498dbc73e7caab4f9, type: 3}
       propertyPath: m_Name
-      value: Stall (1)
+      value: Stall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33291,7 +33293,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (15)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33455,7 +33457,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn (32)
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33584,7 +33586,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (6)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33708,7 +33710,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (28)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33730,7 +33732,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4112156414802939607, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_Name
-      value: Water (7)
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 4169406980168224872, guid: e0c13336b91a66e48a0f2526bb746049, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33867,7 +33869,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5200013155858376528, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_Name
-      value: Traffic Pole (1)
+      value: Traffic Pole
       objectReference: {fileID: 0}
     - target: {fileID: 7017131294751328767, guid: 433e22b8a48be84469276201fb1f3f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34093,7 +34095,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (23)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34150,7 +34152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4781796322417828145, guid: 4f2fcba2a2d86664e8c9cad320a321a3, type: 3}
       propertyPath: m_Name
-      value: MotoSpawn (76)
+      value: MotoSpawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34207,7 +34209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8225079625099645750, guid: 392c5b6a6e7205d40840a9d197348150, type: 3}
       propertyPath: m_Name
-      value: Bench (25)
+      value: Bench
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34284,7 +34286,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1876790368990251811, guid: 803d100f646435348936f3a7504b8b16, type: 3}
       propertyPath: m_Name
-      value: ZebraCross (16)
+      value: ZebraCross
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34803,7 +34805,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196194746980801035, guid: 93c53aaff5132224596772c2c041325b, type: 3}
       propertyPath: m_Name
-      value: Spawn
+      value: Patrol Point
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -62,18 +62,21 @@ public class JobTransform
     public Transform[] _targetTransform;
 }
 
+[Serializable]
 public class N_G
 {
     public Name _name;
     public Sex _sex;
 }
 
+[Serializable]
 public class P_A
 {
     public Job _job;
     public int _min;
     public int _max;      
 }
+[Serializable]
 public class BSeat
 {
     public Transform _seatP;
@@ -84,20 +87,18 @@ public class BSeat
         _seatCheck = seatCheck;
     }
 }
+[Serializable]
 public class SSeat
 {
     public Transform _seatP;
-    public bool _seatCheck;
-    public float _defaultStoppingDis;
+    public bool _seatCheck = false;
+    public float _defaultStoppingDis = .5f;
     public Transform _destnation;
-    public Name _name;
-    public SSeat(Transform seatP, bool seatCheck, Transform destnation, Name name, float defaultStoppingDis)
+    public Name _name = Name.None;
+    public int _count = 0;
+    public SSeat(Transform seatP)
     {
         _seatP = seatP;
-        _seatCheck = seatCheck;
-        _destnation = destnation;
-        _name = name;
-        _defaultStoppingDis = defaultStoppingDis;
     }
 }
 #endregion

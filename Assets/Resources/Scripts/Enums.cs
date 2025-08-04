@@ -4,7 +4,7 @@ using UnityEngine;
 public enum Size { None, S, M, L, XL, XXL, XXXL }
 
 public enum Name { None, Aashrith, Harsha, Deepak, Gagan, Krishna, Sudheer, Tanush, Sahithi, Nikitha, Kiran, Bharath, Sashi, Shantosh, Ambar, Chandu, Magar, Omkar, Rajamouli, Sanjay, Ram}
-//public enum Name { None, Aashrith}
+//public enum Name { None, Aashrith, Ram, Ambar}
 
 public enum Sex { None, Male, Female, Gay, Trans, Lesbiean, Bisexual, Asexual }
 

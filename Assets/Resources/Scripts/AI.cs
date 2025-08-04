@@ -95,17 +95,25 @@ public class AI : MonoBehaviour
             _state = State.Moving;
             return;
         }
+
         if (_resting)
         {
             _state = State.Resting;
             return;
         }
+
         if (_eating)
         {
             _state = State.Eating;
             return;
         }
-        if (_state == State.Idle && _ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _dest == _follow)
+
+        if (_state == State.Thinking || _state == State.Waiting || _state == State.Chatting)
+        {
+            return; // Don't override special states
+        }
+
+        if (_ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _dest == _follow)
         {
             foreach (var jt in AI_Data._instance._jobTransform)
             {
@@ -118,8 +126,15 @@ public class AI : MonoBehaviour
             }
             return;
         }
-        _state = State.Idle;
+
+        // Fallback ONLY if agent truly has no path and nothing pending
+        if (!_ai_Agent.hasPath && !_ai_Agent.pathPending && !_resting && !_eating && _canChat)
+        {
+            _state = State.Idle;
+        }
+        if(!_follow) _follow = _dest;
     }
+
 
     #endregion
     #region IEnumerators

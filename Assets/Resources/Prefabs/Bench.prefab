@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 656807320190024486}
   m_Layer: 0
-  m_Name: Seat (3)
+  m_Name: Seat
   m_TagString: Untagged
   m_Icon: {fileID: 2800000, guid: 5622662f509110b4cae13f59bb42c4fe, type: 3}
   m_NavMeshLayer: 0
@@ -41,7 +41,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8776321559882071998}
   m_Layer: 0
-  m_Name: Seat (1)
+  m_Name: Seat
   m_TagString: Untagged
   m_Icon: {fileID: 2800000, guid: 5622662f509110b4cae13f59bb42c4fe, type: 3}
   m_NavMeshLayer: 0
@@ -72,7 +72,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1286569336119328534}
   m_Layer: 0
-  m_Name: Seat (2)
+  m_Name: Seat
   m_TagString: Untagged
   m_Icon: {fileID: 2800000, guid: 5622662f509110b4cae13f59bb42c4fe, type: 3}
   m_NavMeshLayer: 0
@@ -277,6 +277,7 @@ MonoBehaviour:
   _defaultStoppingDis: []
   _desPosition: []
   _seats: []
+  _seatCheck: []
 --- !u!54 &3829531371154132673
 Rigidbody:
   m_ObjectHideFlags: 0
