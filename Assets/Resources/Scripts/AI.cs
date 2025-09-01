@@ -110,7 +110,7 @@ public class AI : MonoBehaviour
 
         if (_state == State.Thinking || _state == State.Waiting || _state == State.Chatting)
         {
-            return; // Don't override special states
+            return;
         }
 
         if (_ai_Agent.remainingDistance <= _ai_Agent.stoppingDistance && _dest == _follow)
@@ -127,7 +127,6 @@ public class AI : MonoBehaviour
             return;
         }
 
-        // Fallback ONLY if agent truly has no path and nothing pending
         if (!_ai_Agent.hasPath && !_ai_Agent.pathPending && !_resting && !_eating && _canChat)
         {
             _state = State.Idle;

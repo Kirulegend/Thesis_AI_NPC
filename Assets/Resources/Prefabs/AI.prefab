@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 5010056963129486344}
   - component: {fileID: 6152532837633156982}
   - component: {fileID: 8688731771206913388}
-  - component: {fileID: 2059440811870321550}
   m_Layer: 3
   m_Name: AI
   m_TagString: AI
@@ -155,7 +154,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.4
-  m_Speed: 3.5
+  m_Speed: 2
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 360
@@ -167,22 +166,6 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 15
   m_ObstacleAvoidanceType: 4
---- !u!208 &2059440811870321550
-NavMeshObstacle:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1918175831499428110}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Shape: 0
-  m_Extents: {x: 0.5, y: 1, z: 0.5}
-  m_MoveThreshold: 0.1
-  m_Carve: 1
-  m_CarveOnlyStationary: 1
-  m_Center: {x: 0, y: 0, z: 0}
-  m_TimeToStationary: 0.5
 --- !u!1 &3092356611701169050
 GameObject:
   m_ObjectHideFlags: 0
@@ -328,6 +311,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1488965435244466429}
+  - component: {fileID: 4034154357631135970}
   m_Layer: 3
   m_Name: Picked Obj
   m_TagString: Untagged
@@ -350,6 +334,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6146852747819572928}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!208 &4034154357631135970
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3744676602460587779}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 0
+  m_Extents: {x: 0.25, y: 1, z: 0.25}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.5, y: 0, z: -0.5}
+  m_TimeToStationary: 20
 --- !u!1 &4656436463801860253
 GameObject:
   m_ObjectHideFlags: 0
